@@ -1,0 +1,54 @@
+
+# install BeautifulSoup
+# pip install beautifulsoup4
+
+# install requests
+pip install requests
+
+# install readability
+ pip install readability
+
+# install scapy
+  pip install scrapy
+
+# install pandas
+ pip install pandas
+#
+# install numpy
+ pip install numpy
+
+# install scikit-learn
+ pip install scikit-learn
+
+# install MySQL Connector
+ pip install mysql-connector-python
+
+# install MySQL twint
+pip3 install git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+
+# install facebook scraper
+ pip install facebook-scraper
+
+# install spacy
+ pip install setuptools wheel
+ pip install spacy
+ spacy download en_core_web_lg
+
+# install NLTK
+ pip install nltk
+
+# install number to words
+ pip install num2words
+
+Scrapy~=2.6.2
+pandas~=1.3.5
+mysql~=0.0.3
+mysql-connector-python~=8.0.30
+itemadapter~=0.7.0
+requests~=2.27.1
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
+nltk~=3.7
+numpy~=1.21.5
+num2words~=0.5.12
+twint~=2.1.21
